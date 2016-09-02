@@ -1,2 +1,2 @@
 # design-patterns-examples
-design patterns example and try out. different programming languages
+design patterns example and try out with different programming languages
